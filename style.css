@@ -153,7 +153,6 @@ h2 {
     padding: 0 0 0 20px;
 }
 
-
 .border-2 {
     background-color: burlywood;
     margin-left: 30%;
@@ -161,8 +160,6 @@ h2 {
     padding-left: 110px;
 
 }
-
-
 
 .subscribe {
     display: flex;
@@ -186,7 +183,6 @@ h2 {
     border-bottom-right-radius: 5px;
     padding: 10px 18px;
 }
-
 
 footer {
     text-align: center;
